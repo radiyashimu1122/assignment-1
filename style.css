@@ -13,16 +13,20 @@ width: 1320px;
 
 }
 .title{
+ margin-bottom: 0%;
+ padding-bottom: 0%;
 padding-top: 150px;
  color: #FFF;
 text-align: center;
 font-family: Merriweather;
-font-size: 32px;
+font-size: 28px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
 .content{
+ margin-top: 0%;
+ padding-top: 0%;
  color: #FFF;
  text-align: center;
  font-family: 'Merriweather', serif;
@@ -35,12 +39,16 @@ line-height: normal;
  color: #F00;
 text-align: center;
 font-family: Inter;
-font-size: 70px;
+font-size: 65px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
+margin-bottom: 0%;
+padding-bottom: 0%;
 }
 .paragraph{
+ margin-bottom: 0%;
+ padding-bottom: 0%;
  color: #F00;
 text-align: center;
 font-family: Inter;
@@ -50,6 +58,8 @@ font-weight: 500;
 line-height: normal;
 }
 .all-caregories{
+ margin-top: 5px;
+ /* padding-top: 0%; */
  color: #070211;
 text-align: center;
 font-family: Inter;
