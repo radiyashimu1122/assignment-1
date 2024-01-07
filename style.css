@@ -1,0 +1,66 @@
+body{
+ /* width: 1600px;
+height: 7335px; */
+}
+.banner{
+ margin: auto;
+ background-image: linear-gradient(to bottom , rgba(0, 0, 0, 1)
+ 10%, rgba(0, 0, 0, 0) 100%), url(images/banner.png);
+width: 1320px;
+ height: 600px;
+ /* flex-shrink: 0; */
+ border-radius: 16px;
+
+}
+.title{
+padding-top: 150px;
+ color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.content{
+ color: #FFF;
+ text-align: center;
+ font-family: 'Merriweather', serif;
+ font-size: 72px;
+ font-style: normal;
+ font-weight: 200;
+ line-height: 95px; /* 131.944% */
+}
+.main-title{
+ color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 70px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.paragraph{
+ color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all-caregories{
+ color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.new-year-photo{
+margin: auto;
+ width: 802.9px;
+height: 400px;
+/* flex-shrink: 0; */
+}
