@@ -2,15 +2,14 @@ body{
  /* width: 1600px;
 height: 7335px; */
 }
+/* This is banner */
 .banner{
  margin: auto;
  background-image: linear-gradient(to bottom , rgba(0, 0, 0, 1)
  10%, rgba(0, 0, 0, 0) 100%), url(images/banner.png);
 width: 1320px;
  height: 600px;
- /* flex-shrink: 0; */
  border-radius: 16px;
-
 }
 .title{
  margin-bottom: 0%;
@@ -33,7 +32,7 @@ line-height: normal;
  font-size: 72px;
  font-style: normal;
  font-weight: 200;
- line-height: 95px; /* 131.944% */
+ line-height: 95px; 
 }
 .main-title{
  color: #F00;
@@ -59,7 +58,6 @@ line-height: normal;
 }
 .all-caregories{
  margin-top: 5px;
- /* padding-top: 0%; */
  color: #070211;
 text-align: center;
 font-family: Inter;
@@ -68,9 +66,153 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+/* This is new year photo */
 .new-year-photo{
 margin: auto;
  width: 802.9px;
 height: 400px;
-/* flex-shrink: 0; */
+}
+/* This is welcome */
+.welcome{
+ color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+ padding-top: 126px;
+margin-left: 126px; 
+width: 642px;
+}
+section{
+ background-image: linear-gradient(to right , rgba(0, 0, 0, 1)
+ 10%, rgba(0, 0, 0, 0) 100%), url(images/vectory.png);
+ width: 1320px;
+ height: 600px;
+ border-radius: 16px;
+ margin: auto;
+margin-top: 200px;
+}
+.welcome-peragraph{
+ width: 697px;
+ color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400; 
+margin-left: 126px; 
+}
+.join-btn{
+ background-color: rgb(0 0 0);
+ color: #FFF;
+text-align: center;
+font-family: Inter;
+text-transform: uppercase;
+margin-left: 150px;
+padding-top: 40px;
+border: none;
+}
+.card{
+ margin: auto;
+ margin-top: 50px;
+ width: 1320px;
+height: 482px;
+background-color: #fff2f2;
+border-radius: 6px;
+}
+span{
+ padding-top: 50px;
+text-align: center;
+ color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+.new{
+padding-top: 50px;
+text-align: center;
+ margin: auto;
+ color: #070211;
+font-family: Inter;
+font-size:25px;
+font-style: normal;
+font-weight: 600;
+text-transform: capitalize;
+}
+.join-now{
+ color: #FFF;
+font-family: Inter;
+font-size: 15px;
+padding: 16px 32px;
+border-radius: 8px;
+background: #F00;
+border: none;
+}
+.join-button{
+ text-align: center;
+}
+#threediv{
+ margin-top: 100px;
+ gap: 3%;
+ display: inline-flex;
+ width: 100%;
+}
+.div-one{
+ margin-left: 7%;
+ width: 25%;
+}
+.div-two{
+ width: 30%;
+}
+.div-three{
+ width: 26%
+
+}
+.border{
+ border-radius: 463px;
+ border: 15px solid #F00;
+width: 400px;
+height: 400px;
+position: relative;
+padding-top: 15px;
+}
+.photo{
+justify-content: center;
+text-align: center;
+margin:15px ;
+}
+.new-best{
+ color: #F00;
+ font-family: Inter;
+ font-size: 24px;
+ font-style: normal;
+ font-weight: 500;
+ line-height: normal;
+}
+.coming-son{
+ color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.summary{
+ color: #aba9ae;
+font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+}
+.year{
+ color: #F00;
+font-family: Inter;
+font-size: 45px;
+font-weight: 700;
+}
+.introduction{
+ color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 15px;
+font-weight: 400;
 }
