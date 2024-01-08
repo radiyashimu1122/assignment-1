@@ -263,32 +263,73 @@ width: 100%;
 }
 .third-div{
 margin-right: 150px;
-margin-top: 50px;
+margin-top: 100px;
  width: 429px;
 height: 433px;
  float: right;
  background-image: url(images/rectangle-1.png);
 }
 .group44{
-padding-right: 100px;
-width: 200px;
+margin-top: 100px;
+width: 200px; 
+width: 206.841px;
+height: 206.841px;
+float: left;
 }
-.div-no-four{
- margin-right: 150px;
- background-image: url(images/rectangle2.png);
- width: 1320px;
- height: 229px;
- border-radius: 16px 0px 16px 16px;
+.holidays{
+ display: flex;
+ width: 100px;
+ position: absolute;
+}
+.redbox{
  float: inline-end;
- justify-content: center;
- margin-bottom: 0%;
- padding-bottom: 0%;
-}
+width: 1320px;
+ margin-top:0%;
+ height: 200px;
+ background-color: #F00; 
+ text-align: center;
+ margin-right: 150px;
+ } 
+.div-no-four{ 
+ width: 1320px; 
+ border-radius: 16px 0px 16px 16px;
+} 
 .group75{
- width: 278.09px;
-height: 333.424px;
-padding-bottom: 10%;
-margin-bottom: 10%;
+ margin-top: 50px;
+ fill: linear-gradient(90deg, #FFF 0.26%, #1D1D1B 100.35%);
+}
+.group44 .img44{
+ margin-top: 50px;
+}
+.our-awesome{
+ margin-left: 130px;
+}
+.the-best{
+ color: #F00;
+font-family: Inter;
+font-size: 17px;
+font-weight: 500;
+margin-bottom: 0%;
+padding-bottom: 0%;
+}
+.our-awesome{
+ color: #070211;
+font-family: Merriweather;
+font-size: 30px;
+font-weight: 900;
 margin-top: 0%;
 padding-top: 0%;
+margin-bottom:5px;
+padding-bottom: 5px;
+}
+.looking-paragraph{
+ margin-top: 0%;
+ padding-top: 0%;
+ width: 896px;
+ color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size:18px;
+/* font-style: normal; */
+font-weight: 400;
+
 }
